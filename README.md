@@ -1,6 +1,8 @@
 # 🎯 Campus Find - University Lost & Found Portal
 
-A modern, secure, and responsive web application for university students and staff to report, discover, and claim lost or found items on campus.
+CampusFind is a web-based Lost & Found platform designed to help students easily report, search, and recover lost items on campus. Built as part of my 4th semester mini project, the app streamlines the process of connecting lost belongings with their rightful owners.
+
+Live Demo 👉 https://campus-find-kappa.vercel.app
 
 ## ✨ Features
 
